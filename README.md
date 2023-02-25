@@ -1,8 +1,3 @@
-# the site link 
-https://deploymentdemo-react.netlify.app/
-right click on the link and click on open link in new tab to see the hosted react web app
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
